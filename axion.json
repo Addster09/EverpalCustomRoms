@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1762291800,
-            "filename": "axion-1.6-FINAL-20251105-COMMUNITY-GMS-everpal.zip",
-            "id": "5bdab0d1a1b1d57133121df49267dc67",
-            "romtype": "COMMUNITY",
-            "size": 1548596377,
-            "url": "https://github.com/Addster09/EverpalCustomRoms/releases/download/Axion1/axion-1.6-FINAL-20251105-COMMUNITY-GMS-everpal.zip",
-            "version": "1.6"
+            "datetime": 1762751500,
+            "filename": "axion-2.2-NIGHTLY-20251110-UNOFFICIAL-GMS-everpal.zip",
+            "id": "198195c85b19dd0992f615d228fbf48f",
+            "romtype": "UNOFFICIAL",
+            "size": 1689862305,
+            "url": "https://sourceforge.net/projects/camelliaport/files/axon/axion-2.2-NIGHTLY-20251110-UNOFFICIAL-GMS-everpal.zip/download",
+            "version": "2.2"
         }
     ]
 }
