@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1764760246,
-            "filename": "axion-2.2.1-NIGHTLY-20251203-UNOFFICIAL-GMS-everpal.zip",
-            "id": "5da26e3ff25f16c78283382f05cfaee7",
+            "datetime": 1766489403,
+            "filename": "axion-2.2.1-NIGHTLY-20251223-UNOFFICIAL-GMS-everpal.zip",
+            "id": "c60e398ed7e49094d2537cb10d6eebbf",
             "romtype": "UNOFFICIAL",
-            "size": 1576667355,
-            "url": "https://github.com/Addster09/EverpalCustomRoms/releases/download/Axion2-2/axion-2.2.1-NIGHTLY-20251203-UNOFFICIAL-GMS-everpal.zip",
+            "size": 1724674955,
+            "url": "https://github.com/Addster09/EverpalCustomRoms/releases/download/Axion2-3/axion-2.2.1-NIGHTLY-20251223-UNOFFICIAL-GMS-everpal.zip",
             "version": "2.2.1"
         }
     ]
