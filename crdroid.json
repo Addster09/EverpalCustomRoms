@@ -1,1 +1,28 @@
-
+{
+    "response": [
+        {
+            "maintainer": "Addster",
+            "oem": "Xiaomi",
+            "device": "Everpal",
+            "filename": "crDroidAndroid-16.0-20260402-everpal-v12.8.zip",
+            "download": "https://github.com/Addster09/EverpalCustomRoms/releases/download/CrDroidA16/crDroidAndroid-16.0-20260402-everpal-v12.8.zip",
+            "timestamp": 1775138352,
+            "md5": "efc2efbaebe14a29c4829cd85b3722a8",
+            "sha256": "86f07ed8d0ef7be48857ed2e2fbc5f156c9913706aaee9b5c3a2d6b405a6f063",
+            "size": 1451909782,
+            "version": "12.8",
+            "buildtype": "COMMUNITY",
+            "forum": "https://t.me/Addstersdump",
+            "gapps": "https://t.me/Addstersdump/19171",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://github.com/Addster09/EverpalCustomRoms/releases/download/CrDroidA16/boot.img",
+            "paypal": "",
+            "telegram": "t.me/Addster",
+            "dt": "https://github.com/Addster09/device_xiaomi_everpal.git",
+            "common-dt": "",
+            "kernel": "https://github.com/Addster09/android_kernel_xiaomi_mt6833/"
+        }
+    ]
+}
